@@ -22,4 +22,4 @@ This repository currently contains material for
  * [Advanced graphics](nclRggplot2)
 
 All the packages are located in
-the [drat repository](https://github.com/rcourses/drat)
+the [drat repository](https://github.com/rcourses/drat).
