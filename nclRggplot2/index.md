@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 # Advanced graphics
 
 This is a one day intensive course on advanced graphics with R. The standard plotting commands in R are known as the Base graphics. In this course, we cover more advanced graphics packages - in particular, ggplot2. The ggplot2 package can create very advanced and informative graphics. For example:
@@ -48,5 +49,3 @@ The package contains the following vignettes
  * [Practical 1](practical1.pdf)
  * [Practical 2](practical2.pdf), [solutions](solutions2.pdf)
  * [Practical 3](practical3.pdf), [solutions](solutions3.pdf)
-
-

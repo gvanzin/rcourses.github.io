@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 # Statistical modelling with R
 
 This is a one day intensive course on modelling in R. This course will be a
@@ -44,4 +45,3 @@ The package contains the following vignettes
 
  * [Practical 1](practical1.pdf), [solutions](solutions1.pdf)
  * [Practical 2](practical2.pdf), [solutions](solutions2.pdf)
-

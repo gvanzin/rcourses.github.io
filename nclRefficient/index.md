@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 # Efficient R programming
 
 
@@ -41,5 +42,3 @@ The package can then be loaded via
 The package contains the following vignette
 
  * [Practical 1](practical1.pdf), [solutions](solutions1.pdf)
-
-
