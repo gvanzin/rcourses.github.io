@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Efficient R programming
 ---
 
 # Efficient R programming

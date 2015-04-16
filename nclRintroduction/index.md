@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Introduction to R
 ---
 # Introduction to R
 

@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Programming with R
 ---
 # Programming with R
 

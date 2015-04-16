@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Advanced graphics
 ---
 
 # Advanced graphics
